@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ABergelin/FEM-product-preview](https://github.com/ABergelin/FEM-product-preview)
+- Live Site URL: [https://abergelin.github.io/FEM-product-preview/](https://abergelin.github.io/FEM-product-preview/)
 
 ## My process
 
